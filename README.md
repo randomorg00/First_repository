@@ -3,12 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
- hello world 
+My github experience.
 </head>
-<h2>
-Hello my name is Tanishk.I am new to github you can say me beginner to github. 
-</h2>
-<h3>
- Hii welcome to my profile.(figsize=(10,10))
-</h3>      
+<head3>
+ Hii welcome to my profile.I am new to github you can say me beginner to github.
+</head3>      
 </html>
