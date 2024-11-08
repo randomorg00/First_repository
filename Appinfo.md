@@ -6,7 +6,13 @@
 As of 2024, purchasing power of Indian citizen is increased. People are buying bikes, cars, houses.
 This leads to *rising in amount of traffic on roads*. 
 <p>There is also a big problem of finding good and safe parking place.
+
+Our app finds a perfect place to park you vehicle anywhere, anytime.</p>
+<b>so it will be easier to find the exact vacant place to park your vehicle</b>
+
   and in many big cities like pune and mumbai traffic becomes a big problem.
   Our app finds a perfect place to park you vehicle anywhere, anytime.</p>
 so it will be easier to find the exact vacant place to park your vehicle
 
+
+<p><img align="left" scr="[https://media.istockphoto.com/id/480652712/photo/dealer-new-cars-stock.jpg?s=612x612&w=0&k=20&c=Mzfb5oEeovQblEo160df-xFxfd6dGoLBkqjjDWQbd5E](https://t4.ftcdn.net/jpg/03/30/78/85/360_F_330788577_0DDjwHh2WYlf4DQJt5d0eMqzMZ9mMy4C.jpg)"/></p>
