@@ -6,9 +6,10 @@
  hello world 
 </head>
 <h2>
-Hello my name is Tanishk.I am new to github you can say me beginner to github. 
+My github experience.
 </h2>
 <h3>
- Hii welcome to my profile.
+ Hii welcome to my profile.I am new to github you can say me beginner to github.
+
 </h3>      
 </html>
