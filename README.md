@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> hello world </title>
+ hello world 
 </head>
 <h2>
- <title> Hello my name is Tanishk.</title>
+ Hello my name is Tanishk.
 </h2>
 <h3>
-<title> Hii welcome to my profile.</title>
+ Hii welcome to my profile.
 </h3>      
 </html>
